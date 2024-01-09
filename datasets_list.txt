@@ -1,0 +1,11 @@
+https://www.kaggle.com/jsrojas/ip-network-traffic-flows-labeled-with-87-apps
+
+ASNM dataset- https://www.fit.vutbr.cz/~ihomoliak/asnm/index.html
+
+https://sites.google.com/site/dspham/downloads
+
+
+many datasets-
+http://crawdad.org/keyword-packet-trace.html
+https://www.researchgate.net/post/Where_could_I_find_network_datasets_eg_netflow_pcap_files_of_an_organization
+
